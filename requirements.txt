@@ -1,3 +1,0 @@
-streamlit==1.31.0
-chromadb==0.4.24
-anthropic==0.31.0
